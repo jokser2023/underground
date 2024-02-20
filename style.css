@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    color: beige;
+}
+p{text-align: center;}
+.xd{
+    background-image: url(asset/banner-1.jpg);
+    
+}
+main{ text-align: center;}
+h2 {color: black;}
+
+img{
+    height: 500px; ;
+    width: 1600px;
+    }
+
+.appui{
+    border-radius: 5px;
+    padding: 5px 10px;
+    
+}
+.appui2{
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: black;
+color: aliceblue;
+
+}
+footer{
+color: white;
+background-color: grey;
+padding-top: 15px;
+padding-bottom: 20px;
+margin-top: -5px;
+margin-bottom: -5px;
+
+}
