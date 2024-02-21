@@ -5,7 +5,7 @@ header{
 p{text-align: center;}
 .xd{
     background-image: url(asset/banner-1.jpg);
-    
+    background-position: center;
 }
 main{ text-align: center;}
 h2 {color: black;}
